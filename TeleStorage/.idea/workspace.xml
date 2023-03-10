@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e845af46-d752-4b92-9912-1e330caa3ec4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SuperJet/common/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/common/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/common/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/common/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/common/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/common/src/main/java/com/alexeymirniy/superjet/common/CommonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/common/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/common/src/test/java/com/alexeymirniy/superjet/common/CommonApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/office/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/office/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/office/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/office/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/office/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/office/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/office/src/main/java/com/alexeymirniy/superjet/office/OfficeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/office/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/office/src/test/java/com/alexeymirniy/superjet/office/OfficeApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/ship/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/ship/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/ship/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/ship/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/ship/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/ship/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/ship/src/main/java/com/alexeymirniy/superjet/ship/ShipApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/ship/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperJet/ship/src/test/java/com/alexeymirniy/superjet/ship/ShipApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/src/main/java/ru/alexeymirniy/dao/AppDocumentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/src/main/java/ru/alexeymirniy/dao/AppUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/src/main/java/ru/alexeymirniy/dao/BinaryContentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/src/main/java/ru/alexeymirniy/entity/AppDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/src/main/java/ru/alexeymirniy/entity/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/src/main/java/ru/alexeymirniy/entity/BinaryContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/src/main/java/ru/alexeymirniy/entity/enam/UserState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/target/classes/ru/alexeymirniy/dao/AppUserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/target/classes/ru/alexeymirniy/entity/AppUser$AppUserBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/target/classes/ru/alexeymirniy/entity/AppUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-jpa/target/classes/ru/alexeymirniy/entity/enam/UserState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-rabbitmq/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-rabbitmq/src/main/java/ru/alexeymirniy/model/RabbitQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-rabbitmq/target/classes/ru/alexeymirniy/model/RabbitQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/alexeymirniy/DispatcherApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/alexeymirniy/config/RabbitConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/alexeymirniy/controller/TelegramBotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/alexeymirniy/controller/UpdateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/alexeymirniy/service/AnswerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/alexeymirniy/service/UpdateProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/alexeymirniy/service/impl/AnswerConsumerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/alexeymirniy/service/impl/UpdateProducerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/alexeymirniy/util/MessageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/ru/alexeymirniy/DispatcherApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/ru/alexeymirniy/config/RabbitConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/ru/alexeymirniy/controller/TelegramBotController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/ru/alexeymirniy/controller/UpdateController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/ru/alexeymirniy/service/AnswerConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/ru/alexeymirniy/service/UpdateProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/ru/alexeymirniy/service/impl/AnswerConsumerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/ru/alexeymirniy/service/impl/UpdateProducerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/target/classes/ru/alexeymirniy/util/MessageUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/dispatcher.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/node.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/node.log.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/node.log.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/NodeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/config/RabbitConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/dao/RawDataDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/entity/RawData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/exception/UploadFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/ConsumerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/MainService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/ProducerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/enums/ServiceCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/impl/ConsumerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/impl/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/impl/MainServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/impl/ProducerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/NodeApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/config/RabbitConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/dao/RawDataDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/entity/RawData$RawDataBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/entity/RawData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/service/ConsumerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/service/MainService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/service/ProducerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/service/impl/ConsumerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/service/impl/MainServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/target/classes/ru/alexeymirniy/service/impl/ProducerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactive-java-service/hs_err_pid18016.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactive-java-service/src/main/java/com/alexeymiroshnikov/reactivejavaservice/config/GreetingRouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactive-java-service/src/main/java/com/alexeymiroshnikov/reactivejavaservice/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactive-java-service/src/main/java/com/alexeymiroshnikov/reactivejavaservice/domain/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactive-java-service/src/main/java/com/alexeymiroshnikov/reactivejavaservice/handlers/GreetingHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactive-java-service/src/main/resources/templates/index.mustache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JLm0HJt69miURiE70Ws0iVHkA3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.alexeymirniy.config" />
+      <recent name="ru.alexeymirniy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NodeApplication">
+    <configuration name="DispatcherApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.alexeymirniy.DispatcherApplication" />
+      <module name="dispatcher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alexeymirniy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NodeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.alexeymirniy.NodeApplication" />
+      <module name="node" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.alexeymirniy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NodeApplication" />
+        <item itemvalue="Application.DispatcherApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e845af46-d752-4b92-9912-1e330caa3ec4" name="Changes" comment="" />
+      <created>1671865515850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671865515850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/impl/MainServiceImpl.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/impl/FileServiceImpl.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/impl/FileServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/impl/FileServiceImpl.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/node/src/main/java/ru/alexeymirniy/service/impl/FileServiceImpl.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
