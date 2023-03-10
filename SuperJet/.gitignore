@@ -3,3 +3,10 @@
 *.iws
 *.iml
 *.ipr
+
+../.DS_Store
+.DS_Store
+ui/
+../application-ui/
+../messager/
+../start-js/
